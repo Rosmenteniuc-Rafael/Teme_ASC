@@ -1,0 +1,7 @@
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\bin\Debug\tema1_moore.exe.config
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\bin\Debug\tema1_moore.exe
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\bin\Debug\tema1_moore.pdb
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\obj\Debug\tema1_moore.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\obj\Debug\tema1_moore.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\obj\Debug\tema1_moore.exe
+C:\Users\Rafael\source\repos\tema1_moore\tema1_moore\obj\Debug\tema1_moore.pdb
